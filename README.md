@@ -1,4 +1,3 @@
-### Hello, my name is Jose 👋
 <!--
 **SVENTRIPIKAL/SVENTRIPIKAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hello, my name is Jose 👋
 ## I'm an Android Developer from Texas
+
 ### Currently:
 - 💻 Working on a few small projects
 - 👽 Learning Android Kotlin Development
 - 👨‍💻 Looking to collaborate & contribute to open source
 - 💬 Reachable on&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josegarza25/)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
 ### Arsenal:
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
