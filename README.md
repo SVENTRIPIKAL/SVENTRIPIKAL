@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 👨‍💻 Looking to collaborate & contribute to open source
 - 💬 Reachable on&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josegarza25/)
 
----
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 ### 🛠 &nbsp;Tools & Languages:
 <p>
