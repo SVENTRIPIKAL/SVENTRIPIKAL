@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+### Tools & Languages:
 
-### 🛠 &nbsp;Tools & Languages:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical)
