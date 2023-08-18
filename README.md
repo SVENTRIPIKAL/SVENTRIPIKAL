@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm an Android Developer from Texas & currently
+## I'm an Android Developer from Texas
+### Currently:
 - 💻 Working on a few small projects
 - 👽 Learning Android Kotlin Development
 - 👨‍💻 Looking to collaborate & contribute to open source
