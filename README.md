@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### Tools & Languages:
+
+### Arsenal:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
