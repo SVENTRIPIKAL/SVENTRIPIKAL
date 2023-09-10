@@ -1,16 +1,5 @@
 <!--
 **SVENTRIPIKAL/SVENTRIPIKAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### Hello, my name is Jose 👋
@@ -22,11 +11,12 @@ Here are some ideas to get you started:
 - :suspect: Looking to collaborate & contribute to open source
 - :rage1: Reachable on&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josegarza25/)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)](https://github.com/SVENTRIPIKAL/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Arsenal:
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="35" height="35"/>&nbsp;
+&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
