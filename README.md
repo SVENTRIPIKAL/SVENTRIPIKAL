@@ -2,7 +2,8 @@
 **SVENTRIPIKAL/SVENTRIPIKAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jose.f.garza25&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b450&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jose.f.garza25&redirect=true)
+### Hello, my name is Jose 👋
+## I'm an Android Developer from Texas
 
 ### Currently:
 - :feelsgood: Working on a few small projects
