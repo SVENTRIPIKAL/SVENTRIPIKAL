@@ -10,6 +10,7 @@
 - :godmode: Learning Android Kotlin Development
 - :suspect: Looking to collaborate & contribute to open source
 - :rage1: Reachable on&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josegarza25/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white)](mailto:jose.f.garza25@gmail.com?subject=Github%20README%20Message)
 
 ### Arsenal:
 <p>
