@@ -25,6 +25,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages&card_width=310)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)](https://github.com/SVENTRIPIKAL/github-readme-stats)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)  
 [![GitHub Streak](https://github-readme-streak-stats-iota-seven.vercel.app?user=SVENTRIPIKAL&theme=radical&date_format=j%20M%5B%20Y%5D&fire=1AC5FF&ring=DE006F&currStreakLabel=AB80D5&currStreakNum=FFFF89&sideLabels=DE006F&sideNums=1AC5FF&dates=b1ffff)](https://git.io/streak-stats)
 
