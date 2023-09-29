@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://github-readme-spotify-viewer.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song" width="495" height="145">
+    <img src="https://github-readme-spotify-viewer.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song" width="495" height="140">
   </a>
 </p>
 
