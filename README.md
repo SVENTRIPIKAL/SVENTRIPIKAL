@@ -2,7 +2,11 @@
 **SVENTRIPIKAL/SVENTRIPIKAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+<p align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://tthn0-fork-spotify-readme.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+  </a>
+</p>
 
 ### Hello, my name is Jose 👋
 ## I'm an Android Kotlin Developer from Texas
