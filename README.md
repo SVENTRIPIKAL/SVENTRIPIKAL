@@ -12,7 +12,7 @@
 ## I'm an Android Kotlin Developer from Texas
 
 ### Currently:
-- :feelsgood: Working on a few small projects
+- :feelsgood: Working on a few projects
 - :godmode: Studying Android Development, Data Structures, & Algorithms
 - :suspect: Looking to collaborate & contribute to open-source
 - :rage1: Reachable on
