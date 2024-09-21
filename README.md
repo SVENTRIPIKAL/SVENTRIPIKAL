@@ -4,9 +4,9 @@
 # Hello, my name is Jose 👋
 
 ### Currently:
-- :feelsgood: Learning By Creating Fun Apps
+- :feelsgood: Learning Through Implementation
 - :godmode: Focusing On Android Development
-- :suspect: Open To Questions & Collaborations
+- :suspect: Open To Questions & Discussions
 - :rage1: Reachable on
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white)
