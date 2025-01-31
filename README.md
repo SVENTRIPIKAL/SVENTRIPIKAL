@@ -24,6 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>&nbsp;
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sven-tripikal&layout=compact&theme=radical&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages&card_width=310)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sven-tripikal&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages&card_width=310)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)  
 <!-- [![GitHub Streak](https://github-readme-streak-stats-iota-seven.vercel.app?user=sven-tripikal&theme=radical&date_format=j%20M%5B%20Y%5D&fire=00DEDE&ring=F8007C&currStreakNum=FFFF00&currStreakLabel=AB80D5&sideNums=B1D8FF&sideLabels=FFB1D8&dates=B1FFD8)](https://git.io/streak-stats) -->
