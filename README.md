@@ -5,9 +5,9 @@
 
 ### Currently:
 - :feelsgood: Learning Through Implementation
-- :godmode: Focusing On Android Development
+- :godmode: Focused On Kotlin/Web Development
 - :suspect: Open To Questions & Discussions
-- :rage1: Reachable on
+- :rage1: Reach me on
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white)
 ![Discord Badge](https://img.shields.io/badge/Discord-Purple?style=plastic&logo=Discord&logoColor=%23ffffff&color=%235865f2)
