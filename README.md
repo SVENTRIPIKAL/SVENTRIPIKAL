@@ -24,3 +24,5 @@
 ![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages&card_width=310)  
 
 ![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats-clone-sigma.vercel.app?user=SVENTRIPIKAL&theme=radical)](https://git.io/streak-stats) -->
