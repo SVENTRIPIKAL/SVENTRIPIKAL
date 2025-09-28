@@ -21,8 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>&nbsp;
 </p>
 
-![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&card_width=310&exclude_repo=github-readme-stats-clone,github-readme-streak-stats-clone&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages)  
+![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&card_width=310&cache_seconds=3600&exclude_repo=github-readme-stats-clone,github-readme-streak-stats-clone&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages)  
 
-![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
+![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats-clone-sigma.vercel.app?user=SVENTRIPIKAL&theme=radical)](https://git.io/streak-stats) -->
