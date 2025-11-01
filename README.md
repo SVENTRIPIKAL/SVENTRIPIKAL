@@ -5,9 +5,8 @@
 - :godmode: Focused On Kotlin/Web Development
 - :suspect: Open To Questions & Discussions
 - :rage1: Reach me on
-![Discord Badge](https://img.shields.io/badge/Discord-Purple?style=plastic&logo=Discord&logoColor=%23ffffff&color=%235865f2)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)
+[![Discord Badge](https://img.shields.io/badge/Discord-Purple?style=plastic&logo=Discord&logoColor=%23ffffff&color=%235865f2)](https://discordapp.com/users/887451653274488872)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josegarza25)
 
 ### Arsenal:
 <p>
